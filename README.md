@@ -1,4 +1,5 @@
 Why are we here?
+
 For four years, I studied product industrial design. I drew chairs, built lamps, and polished plastic casings. I learned how to select materials, design for manufacturing, and make surfaces look premium. The things I made were tangible. You could touch them, sit on them, place them on a table.
 
 But over time, I started to feel that these objects were too quiet.
