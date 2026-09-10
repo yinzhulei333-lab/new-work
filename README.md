@@ -1,4 +1,4 @@
-Why are we here?
+# Why Are We Here?
 
 For four years, I studied product industrial design. I drew chairs, built lamps, and polished plastic casings. I learned how to select materials, design for manufacturing, and make surfaces look premium. The things I made were tangible. You could touch them, sit on them, place them on a table.
 
@@ -12,11 +12,11 @@ What I am truly interested in is this: when an object does not just exist but re
 
 I once ran a simple observation. Two desk lamps, functionally identical. One has a simple on/off switch. The other can adjust colour temperature and sense ambient light to auto-dimm. You use the first one and forget about it. The second one you keep, even when you move houses. Functionally, they do the same thing — they provide light. But the first is just a tool. The second becomes something you live with.
 
-I believe this contrast points to where design is heading. Not making prettier shells, but making smarter interactions. Not designing things to be used, but things to be lived with
+I believe this contrast points to where design is heading. Not making prettier shells, but making smarter interactions. Not designing things to be used, but things to be lived with.
 
 In this process, code becomes a new material. Just as wood has grain, metal has temperature, and plastic has flexibility, code has its own language — loops, conditionals, randomness, variables. Used well, it has rhythm, breath, and mood.
 
-A Project I Am Thinking and Working On: WindSinger·风语者
+## A Project I Am Thinking and Working On: WindSinger·风语者
 
 I am currently developing a project called WindSinger·风语者. It is a breathing-controlled game for people with asthma and allergic rhinitis who need long-term respiratory rehabilitation.
 
@@ -26,7 +26,7 @@ We are turning it into a game: a steady deep breath makes the character fly upwa
 
 This is not "gamification" for its own sake. What I want to prove is this: interaction itself can turn something you have to do into something you want to do. A plastic tube cannot do that. But a responsive, warm, interactive system can.
 
-So This Is Why I Am Here
+## So This Is Why I Am Here
 
 I am not here because I want to become a programmer. If that were my goal, I would be in a computer science department.
 
@@ -37,3 +37,11 @@ This course is a starting point for me. I do not need to become a technical expe
 Put simply: I spent four years learning to design things. Now I want to learn to design relationships. The relationship between a person and a product. Not using it, but living with it.
 
 That is why I am here.
+
+## References
+
+Norman, D. A. (2004). *Emotional design: Why we love (or hate) everyday things*. Basic Books. <https://en.wikipedia.org/wiki/Emotional_Design>
+
+Norman, D. A. (2013). *The design of everyday things* (Rev. ed.). Basic Books. <https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things>
+
+McGonigal, J. (2011). *Reality is broken: Why games make us better and how they can change the world*. Penguin Press. <https://en.wikipedia.org/wiki/Reality_Is_Broken>
